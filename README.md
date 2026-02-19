@@ -1,1 +1,2 @@
 # landingPage
+This is the first project of the The Odin Project curriculum. The main goal is to do from scratch a landing page as similar as possible to the reference given. In this project we're allowed to use only HTML and CSS. So far, we're only using flexbox and other basic knowledges. 
